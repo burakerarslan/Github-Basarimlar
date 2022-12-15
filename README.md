@@ -77,7 +77,7 @@ Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="https://github
 # İşaretlediğim kalem işaretine tıklayıp düzenleme aşamasına gelin
 ![image](https://user-images.githubusercontent.com/76253089/206911370-11792ad3-9289-4719-b2db-e8ed7774288d.png)
 
-# İşaretlediğim yazının sonuna nokta koyun (.) 
+# İşaretlediğim yazının sonuna nokta koyun (...) 
 ![image](https://user-images.githubusercontent.com/76253089/206911480-6ee927f2-0fa7-4d6f-aeea-256d47096e28.png)
 
 # Sayfayı aşağı çekin ve Commit changes kısmındaki "Create a new branch .... start a pull requesti seçin ve Propose changes tusuna basın
